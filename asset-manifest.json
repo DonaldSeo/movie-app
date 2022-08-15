@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/movie-app/static/js/main.b7993c98.js",
+    "static/media/movie-not-found.png": "/movie-app/static/media/movie-not-found.28cf33fa7f1ba7fae972.png",
+    "static/media/search-icon.svg": "/movie-app/static/media/search-icon.077696d454e854fd332e9275af3dc31c.svg",
+    "index.html": "/movie-app/index.html",
+    "main.b7993c98.js.map": "/movie-app/static/js/main.b7993c98.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b7993c98.js"
+  ]
+}
