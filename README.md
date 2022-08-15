@@ -7,7 +7,7 @@ This app is built with React.js, Styled-components and with [The Open Movie Data
 https://user-images.githubusercontent.com/6504229/184692869-7ebb3d70-2716-4598-8ba8-dff64591369c.mov
 
 
-
+Try out the app [Here](https://donaldseo.github.io/movie-app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
