@@ -2,6 +2,13 @@
 
 This app is built with React.js, Styled-components and with [The Open Movie Database(OMDb API)](https://www.omdbapi.com/)
 
+
+
+https://user-images.githubusercontent.com/6504229/184692869-7ebb3d70-2716-4598-8ba8-dff64591369c.mov
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
